@@ -29,12 +29,13 @@ Nominalskala: Misst Häufigkeit (zb Postleitzahlen)
 Ordinalskala: Misst Häufigkeit, Reihenfolge (zb Schulnoten)
 Intervallskala: Misst Häufigkeit, Reihenfolge, Abstand (zb Zeitskala, Datum)
 Verhältnisskala: Misst Häufigkeit, Reihenfolge, Abstand, natürlicher Nullpunkt (zb Alter)
---> Name von Studierenden (Ordinalskala)
---> Matrikelnummer von Studierenden (Ordinalskala)
---> Fehleranzahl im Programm (Nominalskala)
---> Alter von Studierenden (Verhältnisskala)
---> Studiengang (Nominalskala)
---> Bearbeitungsdauer in Sekunden (Verhältnisskala)
+Absolutskala:
+--> Name von Studierenden (Ordinalskala) Richtig: Nominalskala
+--> Matrikelnummer von Studierenden (Ordinalskala) Richtig: Nominalskala
+--> Fehleranzahl im Programm (Nominalskala) Richtig: Absolut
+--> Alter von Studierenden (Verhältnisskala) Richtig!
+--> Studiengang (Nominalskala) Richtig!
+--> Bearbeitungsdauer in Sekunden (Verhältnisskala) Richtig!
 
 
 Index of Difficulty Fitts:
