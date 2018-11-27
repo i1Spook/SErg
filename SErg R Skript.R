@@ -124,7 +124,7 @@ getwd()
 table1 <- read.csv2("testResults_False_True_1.csv", FALSE)
 table2 <- read.csv2("testResults_False_True_2.csv", TRUE)
 
-
+##Spalten berechnen und per cbind anheften an existierende Tabelle
 
 
 
