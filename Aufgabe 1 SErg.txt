@@ -1,0 +1,50 @@
+Aufgabe 1:
+
+Einseitig:
+Zweiseitig:
+
+Ablehnungsbereich: der Ablehnbereich enthält alle Daten,
+bei denen der untersuchte statistische Test sich für die Alternative
+entscheidet bzw. die Nullhypothese ablehnt. 
+Irrtumswahrscheinlichkeit: Ist die Wahrscheinlichkeit des Auftretens 
+des Fehler 1. Art (Alpha - Fehler).
+
+IQ: Der IQ hat keinen natürlichen Nullpunkt, somit können Rechenoperationen 
+die von einem Nullpunkt ausgehen nicht auf den IQ durchgeführt werden
+
+Dichotomie: Dichotomie bezeichnet eine Struktur aus zwei Teilen,
+die einander ohne Schnittmenge gegenüberstehen.
+Natürliche Dichotomie: Beschreibt ein Merkmal, 
+dass von "Natur" aus nur zwei Ausprägungen kennt (z.B. Geschlecht)
+Künstliche Dichotomie: zB eine Unterteilung in Menschen >40 Jahre und <40 Jahre.
+Die Jahreszahl an sich ist nicht dichotom aber die Unterscheidung erschafft eine Dichotomie.
+
+Skalenniveau: Das Skalenniveau bestimmt,
+welche (mathematischen) Operationen mit einer entsprechend skalierten Variable zulässig sind.
+Operationen können auf Variablen höheren Niveaus angewendet werden, jedoch nicht anders herum.
+Arten des Skalenniveaus:
+Nominalskala: Misst Häufigkeit (zb Postleitzahlen)
+Ordinalskala: Misst Häufigkeit, Reihenfolge (zb Schulnoten)
+Intervallskala: Misst Häufigkeit, Reihenfolge, Abstand (zb Zeitskala, Datum)
+Verhältnisskala: Misst Häufigkeit, Reihenfolge, Abstand, natürlicher Nullpunkt (zb Alter)
+--> Name von Studierenden (Ordinalskala)
+--> Matrikelnummer von Studierenden (Ordinalskala)
+--> Fehleranzahl im Programm (Nominalskala)
+--> Alter von Studierenden (Verhältnisskala)
+--> Studiengang (Nominalskala)
+--> Bearbeitungsdauer in Sekunden (Verhältnisskala)
+
+
+Index of Difficulty Fitts:
+ID = log2(2D/W)
+D = increasing distance to center of target
+W = decreasing width of target
+
+Index of Difficulty Shannon:
+ID = log2(D/W + 1)
+
+Index of Difficulty Accot&Zhai:
+MT = a + b * log2(root((D/W)² + n(D/H)²) + 1)
+
+Euklidischer Abstand:
+root(a² + b²)
