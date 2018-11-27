@@ -7,7 +7,9 @@ Ablehnungsbereich: der Ablehnbereich enthält alle Daten,
 bei denen der untersuchte statistische Test sich für die Alternative
 entscheidet bzw. die Nullhypothese ablehnt. 
 Irrtumswahrscheinlichkeit: Ist die Wahrscheinlichkeit des Auftretens 
-des Fehler 1. Art (Alpha - Fehler).
+des Fehler 1. Art (Alpha - Fehler). Je kleiner der Alpha - Fehler, desto
+genauer sind die Berechnungen bzw man kann davon ausgehen,
+dass sie nicht vom Zufall beeinflusst werden
 
 IQ: Der IQ hat keinen natürlichen Nullpunkt, somit können Rechenoperationen 
 die von einem Nullpunkt ausgehen nicht auf den IQ durchgeführt werden
